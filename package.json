@@ -1,0 +1,16 @@
+{
+  "name": "frontend-apollo-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for integrating Apollo Graphql into a frontend application",
+  "main": "index.ts",
+  "author": "ryancrumble",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.5.9",
+    "graphql": "^16.3.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  }
+}
